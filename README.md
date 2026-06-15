@@ -1,13 +1,13 @@
 # CT Reconstruction using System Matrix Approach (MATLAB)
 
-## 🧠 Conceptual Intuition (Simple View)
+## Conceptual Intuition 
 
 Think of this like trying to understand what's inside an object (like a fruit) by shining light from different angles.
 * Each “ray” tells you partial information.
 * All rays together help rebuild the original image.
 * The system matrix acts like a **map** connecting rays to pixels.
 
-## 📂 Project Structure
+## Project Structure
 
 * `Folder_1`: Image preprocessing and resizing
 * `Folder_2`: Projection (Radon transform simulation)
@@ -181,5 +181,4 @@ f = rgb2gray(f);
 * Noise handling
 * Real CT dataset testing
 
-
-This project is for academic and educational use.
+ⓘ *This project is for academic and educational use.*
